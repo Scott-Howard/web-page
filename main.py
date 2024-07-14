@@ -16,6 +16,7 @@ with col2:
     Welcome to my website. I am a Data Scientist and Statistician. 
     I have experience in Python, R, SQL, and machine learning. 
     I have a passion for data and I am always looking for new projects to work on. 
+    I have worked on projects in a variety of industries including Education, Agribuisness, and Supply chains.
     Feel free to reach out to me if you have any questions or would like to work together.
     """
     st.info(content)
